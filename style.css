@@ -2,3 +2,9 @@ header {
     background-color: #4a5700;
     color: white;
 }
+.estudantes{
+display: grid;
+grid-template-columns: 50% 50%;
+grid-template-rows: 50% 50% 50%;
+
+}
